@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos Espinoza</h1>
 <h3 align="center">A fullstack student from Nicaragua</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soncarlos&label=Profile%20views&color=0e75b6&style=flat" alt="soncarlos" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=soncarlos&label=Profile%20views&color=0e75b6&style=flat" alt="soncarlos" /> </p> -->
+
+<br>
 
 - 🔭 I’m currently working on **Personal Project**
 
