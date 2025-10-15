@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, JavaScript and C#**
+- 👯 I’m looking to collaborate on **C#**
 
-- 👯 I’m looking to collaborate on **Reactjs, Nodejs and C#**
-
-- 💬 Ask me about **Reactjs, JavaScript, Nodejs and C#**
+- 💬 Ask me about **C#**
 
 - ⚡ Fun fact **I like to learn and teach.**
 
